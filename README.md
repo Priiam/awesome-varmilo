@@ -2,7 +2,6 @@
 A list of awesome content related to the Varmilo mechanical keyuboards
 
 ## Officia communities
-*C++ Standard Library - including STL Containers, STL Algorithm, STL Functional, etc.*
 
 * [Varmilo.com](https://en.varmilo.com) - Official shop for Varmilo's products
 * [/r/varnmilo](https://www.reddit.com/r/Varmilo/) - Reddit's community for Varmilo keyboards
